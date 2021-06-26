@@ -2,9 +2,9 @@ name: Update Data de-states + int-countries
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
-on:  
-  schedule:
-    - cron: "0 4 * * *"
+#on:  
+#  schedule:
+#    - cron: "0 4 * * *"
 # TODO       
 #  push: 
 #    branches: [ master ]
