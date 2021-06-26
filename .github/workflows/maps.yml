@@ -2,9 +2,9 @@ name: Update Maps
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
-on:  
-  schedule:
-    - cron: "15 11 * * *"
+#on:  
+#  schedule:
+#    - cron: "15 11 * * *"
 # TODO       
 #  push:
 #    branches: [ master ]
